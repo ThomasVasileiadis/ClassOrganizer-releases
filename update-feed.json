@@ -1,0 +1,10 @@
+﻿{
+    "version":  "1.0.2.0",
+    "downloadUrl":  "https://github.com/ThomasVasileiadis/ClassOrganizer-releases/releases/download/v1.0.2.0/ClassOrganizer.WinUI-1.0.2.0-setup.exe",
+    "sha256":  "f8ae8d06c379fbffded1c48103268d085c150e16a15530b69df375d5c81da891",
+    "sizeBytes":  75379052,
+    "releaseNotesUrl":  "https://github.com/ThomasVasileiadis/ClassOrganizer-releases/releases/tag/v1.0.2.0",
+    "mandatory":  false,
+    "minimumVersion":  "",
+    "publishedAtUtc":  "2026-09-03T02:06:35Z"
+}
