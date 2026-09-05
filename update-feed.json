@@ -1,10 +1,10 @@
 ﻿{
-    "version":  "1.0.2.1",
-    "downloadUrl":  "https://github.com/ThomasVasileiadis/ClassOrganizer-releases/releases/download/v1.0.2.1/ClassOrganizer.WinUI-1.0.2.1-setup.exe",
-    "sha256":  "be1ca3e6d5786fa59f906e3cdc90396815f098068daff8e7787aa941f1c3db47",
-    "sizeBytes":  75224587,
-    "releaseNotesUrl":  "https://github.com/ThomasVasileiadis/ClassOrganizer-releases/releases/tag/v1.0.2.1",
+    "version":  "1.0.2.2",
+    "downloadUrl":  "https://github.com/ThomasVasileiadis/ClassOrganizer-releases/releases/download/v1.0.2.2/ClassOrganizer.WinUI-1.0.2.2-setup.exe",
+    "sha256":  "13ae24e86b9c5d30bed05e46b611ad2f4d3c652e26d0edae44aed589cedd5213",
+    "sizeBytes":  146346521,
+    "releaseNotesUrl":  "https://github.com/ThomasVasileiadis/ClassOrganizer-releases/releases/tag/v1.0.2.2",
     "mandatory":  false,
     "minimumVersion":  "",
-    "publishedAtUtc":  "2026-09-04T01:12:38Z"
+    "publishedAtUtc":  "2026-09-05T09:25:43Z"
 }
